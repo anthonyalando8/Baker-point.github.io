@@ -1,0 +1,22 @@
+.menu-description
+{
+  background-image: url("../lib/Images/deserts.jpg");
+  background-position:center;
+  background-attachment: fixed;
+  min-height: 500px;
+  background-size: cover;
+  background-size: 950px;
+  background-repeat: no-repeat;
+  text-align: center;
+  font-size: 24px;
+  font-weight:300;
+  color: white;
+}
+.description{font-size: 20px;color: brown;text-align: center; width: 90%;}
+.products-available{width: 95%;padding-right: 2.5%;padding-left: 2.5%; background-color: bisque;
+border-radius: 25px;
+}
+.products-available:hover{
+  -webkit-transform: translateY(-4px);transform: translateY(-4px);
+    cursor: pointer;
+}
