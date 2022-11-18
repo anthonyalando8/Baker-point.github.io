@@ -24,7 +24,7 @@ label{display: inline-block;width: 150px;height: 0.6cm;text-align:left;}
 
 input[type=submit]{width: 150px;margin: auto;color: white;background-color: blue;padding: 10px;font-size: 20px;}
 input:focus, select:focus{border: 1px solid blue;}
-
+select{width: 246px;}
 #left-part1
 {
   color: brown;font-size: 36px;font-weight: 500;
