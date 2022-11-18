@@ -47,7 +47,7 @@ footer{line-height: 1.5;font-size: 18px;padding-top: 10px;padding-bottom:25px;
     .footer-container,.split-container{display: inline-block;}
     #header-buttons{overflow:scroll;}
 }
-select{width: 246px;}
+
 input, select
 {
   box-sizing: border-box;border: 0.5px solid greenyellow;
