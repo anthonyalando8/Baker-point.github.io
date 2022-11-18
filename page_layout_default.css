@@ -20,7 +20,7 @@ button:hover
 #bakerspoint-notice
 {text-align:center;line-height: 1.5;font-size: 24px;}
 header
-{text-align: center;font-size: 68px;background-color: whitesmoke;position: -webkit-sticky;position: sticky;
+{text-align: center;font-size: 68px;background-color: whitesmoke;
   top: 0;font-weight: 900;width: 100%;overflow: hidden;
 }
 #page-content
